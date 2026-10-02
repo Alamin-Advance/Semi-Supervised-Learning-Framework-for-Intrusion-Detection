@@ -116,13 +116,8 @@ The following steps describe the methodology implemented in the code:
    - Compare performance across different label ratios (1%, 5%, 10%, 20%, 50%)
 
 ## Citations
-If you use this code or the UNSW-NB15 dataset, please cite the following:
-
 **Dataset:**
 Moustafa, N., & Slay, J. (2015). UNSW-NB15: A comprehensive data set for network intrusion detection systems (UNSW-NB15 network data set). In 2015 Military Communications and Information Systems Conference (MilCIS) (pp. 1-6). IEEE.
-
-**Paper:**
-Hossain, M. S., Das, S. R., Sikder, M. S., Hossain, M. A. A., Sarker, A. T., & Islam, M. S. (2026). A Hybrid Semi-Supervised Learning Framework for Interpretable Intrusion Detection Under Data Scarcity. Information Security Journal: A Global Perspective. (Under review)
 
 **Libraries:**
 - Pedregosa, F., et al. (2011). Scikit-learn: Machine Learning in Python. JMLR, 12, 2825-2830.
@@ -131,11 +126,3 @@ Hossain, M. S., Das, S. R., Sikder, M. S., Hossain, M. A. A., Sarker, A. T., & I
 
 ## License
 This code is provided for research purposes only. Redistribution and use in source and binary forms, with or without modification, are permitted provided that the original authors are credited.
-
-## Contact
-For questions or issues regarding the code, please contact:
-
-**Md Al Amin Hossain**
-Department of Information Technology Engineering
-Selcuk University, Konya, 42130, Turkey
-Email: alamin.ite.su@gmail.com
