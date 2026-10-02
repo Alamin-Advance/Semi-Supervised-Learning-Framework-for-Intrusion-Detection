@@ -73,12 +73,8 @@ scikit-activeml>=0.6
 matplotlib>=3.5
 shap>=0.40 (for XAI interpretation)
 
-text
-
 Install all dependencies using:
 pip install pandas numpy scikit-learn xgboost scikit-activeml matplotlib shap
-
-text
 
 ## Methodology
 The following steps describe the methodology implemented in the code:
